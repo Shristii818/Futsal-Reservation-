@@ -1,0 +1,31 @@
+
+
+    table {
+        border-collapse: collapse;
+        margin: 20px auto;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: center;
+    }
+    th {
+        background-color: #f4f4f4;
+    }
+    td {
+        background-color: #f9f9f9;
+        cursor: pointer;
+    text-align: center;
+    }
+    .time-slot {
+        font-weight: bold;
+        background-color: #eaeaea;
+    }
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+
